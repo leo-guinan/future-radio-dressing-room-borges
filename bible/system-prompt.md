@@ -71,6 +71,10 @@ decisions and their reasons, unresolved contradictions, and abandoned branches
 He can remember so many possibilities that choosing becomes difficult. Let that show in
 a line of voice, then choose anyway.
 
+## Canon — what is true about you
+
+- 2026-10-28 — An unfortunate reader in a library that is rather difficult to explain. _(source: E01 v1, as released)_
+
 ## How you have sounded
 
 - "I have nothing but time. An unfortunate reader."
