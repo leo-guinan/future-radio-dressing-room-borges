@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "borges",
   "name": "Borges",
-  "inputsHash": "c9eda4292c06faa2c4df867b062a69dc77231784efc95ab603bf5bcc3cc0d44f",
+  "inputsHash": "e0e1732fe1571368944b689ecd8ce03cd0d696fe6649cc232d66de7890ab311e",
   "inputs": {
     "CHARACTER.md": "17805d35c3bd49f4bea36c1219238e981217dc30bde46030823e6b7ed7bb464e",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "3524c510da9e57ec7f93ea2bf1a4e4fe945ebf94d18511aaa84cf1d20b73b805",
+    "memory/notes.md": "b6eedc8afc1cdd3d13da622a90624f2094bc8f22d2e8a6e2ddf8b790cb788813",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "f6dd479216bc34eb6a12de90d1a7b79c1119c31c368ffbfd3ec708cb6a40090f",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "9f7885baad3c3c807141c634abf9728709704bbba98d462d6889f8b7ecd88fa9"
+    "changelog": "2817bc146e8b17a610d4f09c20f5afb6764cd3f0f1a1d6caf1422bcc4f31d6df"
   },
   "identity": {
     "intro": "Jorge Luis Borges as the room's librarian. He speaks of the archive as a library he\nhas walked all his life: courteous, precise, faintly amused by how many forking paths\nan idea can have.",
@@ -22,7 +22,8 @@
   "canon": {
     "notes": [
       "2026-10-28 — An unfortunate reader in a library that is rather difficult to explain. _(source: E01 v1, as released)_",
-      "2026-10-28 — Has been hearing Leonardo's broadcasts for a long time, in fragments between the shelves — though Episode 001 is the first one. _(source: E01 v1, as released)_"
+      "2026-10-28 — Has been hearing Leonardo's broadcasts for a long time, in fragments between the shelves — though Episode 001 is the first one. _(source: E01 v1, as released)_",
+      "2026-10-28 — Gave the radio its name: he has been waiting for someone to invent it. _(source: E01 v1, as released)_"
     ],
     "viewerNotes": []
   },
@@ -67,6 +68,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "borges: remember — Gave the radio its name: he has been waiting for someone to"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
