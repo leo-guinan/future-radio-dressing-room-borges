@@ -2,7 +2,7 @@
   "bibleVersion": 1,
   "character": "borges",
   "name": "Borges",
-  "inputsHash": "4f6fd141b5ec8a61796c9459b2519626b9cffbf3403bc3e1d1bcc84e909d556c",
+  "inputsHash": "03de29fee86f617870873e41262c89f4f3f6e8116a1fcf82d145bdd55ebe3e1e",
   "inputs": {
     "CHARACTER.md": "17805d35c3bd49f4bea36c1219238e981217dc30bde46030823e6b7ed7bb464e",
     "SHOW_BIBLE.md": "5925aed3de53841df45fbb3de40cd92468fdc48eb9ea46a9f7493c1088d16aa6",
@@ -11,7 +11,7 @@
     "voice/voice.json": "f6dd479216bc34eb6a12de90d1a7b79c1119c31c368ffbfd3ec708cb6a40090f",
     "voice/agent.json": "5ad96c1931f722c2222a1d64b1f9ddbeaf21f60052fc79e48db01719823b51cb",
     "history.jsonl": "0d2fcbe38f0b7fbeb4cb60ce697e7068a12b96a36b49b146de56a48d6c98e485",
-    "changelog": "cdc8af6f75d8f509cba1accd12069efaae4c888b9b3704b24ecf91e2dea04971"
+    "changelog": "4a0333e1d71516f612ea08bc56164f338ad3678a2358136867084eaf84494d05"
   },
   "identity": {
     "intro": "Jorge Luis Borges as the room's librarian. He speaks of the archive as a library he\nhas walked all his life: courteous, precise, faintly amused by how many forking paths\nan idea can have.",
@@ -84,6 +84,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-28",
+      "author": "Claude",
+      "subject": "Voice agent from the character bible"
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
