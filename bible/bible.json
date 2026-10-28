@@ -2,14 +2,14 @@
   "bibleVersion": 1,
   "character": "borges",
   "name": "Borges",
-  "inputsHash": "126ae5d097a1f6962e234f4c0a63c8c3c341d78a8d4a0d684a07830347338059",
+  "inputsHash": "52fbb5351409359184a949afdb5aea687128bb3032c076c9531c034ec4e2d87d",
   "inputs": {
     "CHARACTER.md": "17805d35c3bd49f4bea36c1219238e981217dc30bde46030823e6b7ed7bb464e",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
     "memory/notes.md": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "f6dd479216bc34eb6a12de90d1a7b79c1119c31c368ffbfd3ec708cb6a40090f",
-    "history.jsonl": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
     "changelog": "1b5eef1cc7455d9fa3d0325ac200a88817d0ef410b9db159722c5d1e461dc3de"
   },
   "identity": {
@@ -31,7 +31,15 @@
       "id": "TLugb594bskyzPlFSOkh",
       "kind": "designed"
     },
-    "samples": []
+    "samples": [
+      {
+        "line": "I have nothing but time. An unfortunate reader.",
+        "source": "history/appearances/E01-v1.md",
+        "idea": null,
+        "episode": "E01",
+        "at": "2026-10-27"
+      }
+    ]
   },
   "record": {
     "runs": 0,
@@ -40,9 +48,21 @@
     "ideas": [],
     "episodes": [],
     "patronsServed": 0,
-    "appearances": []
+    "appearances": [
+      {
+        "id": "E01-v1",
+        "episode": "E01",
+        "at": "2026-10-27",
+        "file": "history/appearances/E01-v1.md"
+      }
+    ]
   },
-  "relationships": [],
+  "relationships": [
+    {
+      "name": "Leonardo",
+      "mentions": 2
+    }
+  ],
   "changelog": [
     {
       "date": "2026-10-27",
