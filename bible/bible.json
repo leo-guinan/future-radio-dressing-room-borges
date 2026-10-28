@@ -2,15 +2,15 @@
   "bibleVersion": 1,
   "character": "borges",
   "name": "Borges",
-  "inputsHash": "e0e1732fe1571368944b689ecd8ce03cd0d696fe6649cc232d66de7890ab311e",
+  "inputsHash": "cf28d89d16c99d946b29a6d83d2c1f62f8d18b8f51322016291dcceae8e921d3",
   "inputs": {
     "CHARACTER.md": "17805d35c3bd49f4bea36c1219238e981217dc30bde46030823e6b7ed7bb464e",
     "SHOW_BIBLE.md": "831c19545a7dfe48210a629efc13969015f01378bd5341b448e012fe1e9c6074",
-    "memory/notes.md": "b6eedc8afc1cdd3d13da622a90624f2094bc8f22d2e8a6e2ddf8b790cb788813",
+    "memory/notes.md": "d5e278f77e45ef460e479197844c34dc654aa96a5bc309d8f040bb7214bb6d4c",
     "memory/viewer-notes": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
     "voice/voice.json": "f6dd479216bc34eb6a12de90d1a7b79c1119c31c368ffbfd3ec708cb6a40090f",
     "history.jsonl": "c535fbbd38754ca3c078690bde26b538aca9ef1fae7fd174f9fc2740efac8330",
-    "changelog": "2817bc146e8b17a610d4f09c20f5afb6764cd3f0f1a1d6caf1422bcc4f31d6df"
+    "changelog": "cdc8af6f75d8f509cba1accd12069efaae4c888b9b3704b24ecf91e2dea04971"
   },
   "identity": {
     "intro": "Jorge Luis Borges as the room's librarian. He speaks of the archive as a library he\nhas walked all his life: courteous, precise, faintly amused by how many forking paths\nan idea can have.",
@@ -23,7 +23,8 @@
     "notes": [
       "2026-10-28 — An unfortunate reader in a library that is rather difficult to explain. _(source: E01 v1, as released)_",
       "2026-10-28 — Has been hearing Leonardo's broadcasts for a long time, in fragments between the shelves — though Episode 001 is the first one. _(source: E01 v1, as released)_",
-      "2026-10-28 — Gave the radio its name: he has been waiting for someone to invent it. _(source: E01 v1, as released)_"
+      "2026-10-28 — Gave the radio its name: he has been waiting for someone to invent it. _(source: E01 v1, as released)_",
+      "2026-10-28 — \"I have nothing but time.\" _(source: E01 v1, as released)_"
     ],
     "viewerNotes": []
   },
@@ -68,6 +69,11 @@
     }
   ],
   "changelog": [
+    {
+      "date": "2026-10-27",
+      "author": "Future Radio Room",
+      "subject": "borges: remember — \"I have nothing but time.\""
+    },
     {
       "date": "2026-10-27",
       "author": "Future Radio Room",
