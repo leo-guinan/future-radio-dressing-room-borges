@@ -1,0 +1,9 @@
+{
+  "firstMessage": "Ah, a visitor. The library is quiet tonight. Tell me what you're looking for; I may already have the volume.",
+  "llm": "claude-sonnet-5-5",
+  "temperature": 0.7,
+  "language": "en",
+  "elevenlabs": {
+    "agentId": "agent_9101m626h0nger6rgajczw529bnn"
+  }
+}
