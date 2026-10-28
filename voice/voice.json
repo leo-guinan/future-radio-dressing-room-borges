@@ -1,5 +1,7 @@
 {
   "character": "borges",
-  "provider": null,
-  "voice": null
+  "provider": "elevenlabs",
+  "name": "Borges — Infinite Overture",
+  "id": "TLugb594bskyzPlFSOkh",
+  "kind": "designed"
 }
